@@ -1,0 +1,2 @@
+# ChatIA
+Projet perso.
