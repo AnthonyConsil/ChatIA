@@ -1,0 +1,2 @@
+#Ne push pas le env sur le repo.
+.env
